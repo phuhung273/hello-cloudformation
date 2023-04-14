@@ -1,0 +1,14 @@
+[
+    {
+        "ParameterKey": "AWSAccountId",
+        "ParameterValue": "814426352243"
+    },
+    {
+        "ParameterKey": "PrefixName",
+        "ParameterValue": "hello-cloudformation"
+    },
+    {
+        "ParameterKey": "SubnetId",
+        "ParameterValue": "subnet-0db11fbbc639ac23e"
+    }
+]
